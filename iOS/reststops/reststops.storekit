@@ -1,0 +1,27 @@
+{
+  "identifier": "Configuration",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "100000010",
+      "localizations": [
+        {
+          "description": "Unlimited stops, star ratings, and route-based filtering",
+          "displayName": "Roadside Rest Stops Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "reststops_pro",
+      "referenceName": "Roadside Rest Stops Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
